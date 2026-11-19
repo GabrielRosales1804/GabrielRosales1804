@@ -1,7 +1,7 @@
 <div style="font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
 <h1 align = "center">Hi 👋, I'm Gabriel Rosales </h1>
 <h3 align = "center">Desarrollador Backend .NET | C# | IoT & MAUI</h3>
-<div align = "center">[![](https://komarev.com/ghpvc/?username=GabrielRosales1804&icon=6&color=red)](https://visitcount.itsvg.in)</div>
+[![](https://komarev.com/ghpvc/?username=GabrielRosales1804&icon=6&color=red)](https://visitcount.itsvg.in)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p>Egresado de la Universidad Politécnica de Tecámac <strong>(en proceso de titulación)</strong>, enfocado en el desarrollo de software con tecnologías .NET.
 Me especializo en C# y ASP.NET Core, desarrollando APIs RESTful y aplicaciones bajo principios de Clean Architecture. También me interesa la integración de hardware y software mediante proyectos IoT y aplicaciones multiplataforma con .NET MAUI.</p>
@@ -84,8 +84,8 @@ También soy entusiasta de Linux y el distro-hopping, disfrutando personalizar e
 <h2>📊<strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong></h2>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRosales1804&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRosales1804&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
 <br/>
