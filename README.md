@@ -1,7 +1,9 @@
 <div style="font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
 <h1 align = "center">Hi 👋, I'm Gabriel Rosales </h1>
+<img src = "https://media.licdn.com/dms/image/v2/D4E16AQEK7lVqNNeZqg/profile-displaybackgroundimage-shrink_350_1400/B4EaHEUty2J8AU-/0/1794295127502?e=1796860800&v=beta&t=kBEFQejmI-Mpq_-nuoxxExd5oZp7adLUyte2BuDalMw">    
 <h3 align = "center">Desarrollador Backend .NET | C# | IoT & MAUI</h3>
-[![](https://komarev.com/ghpvc/?username=GabrielRosales1804&icon=6&color=red)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=GabrielRosales1804&style=flat" alt="">
+<a href="https://gitstats.me/GabrielRosales1804"><img src="https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white" alt="Github"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p>Egresado de la Universidad Politécnica de Tecámac <strong>(en proceso de titulación)</strong>, enfocado en el desarrollo de software con tecnologías .NET.
 Me especializo en C# y ASP.NET Core, desarrollando APIs RESTful y aplicaciones bajo principios de Clean Architecture. También me interesa la integración de hardware y software mediante proyectos IoT y aplicaciones multiplataforma con .NET MAUI.</p>
@@ -80,14 +82,9 @@ También soy entusiasta de Linux y el distro-hopping, disfrutando personalizar e
   <img src="https://github-trophies.vercel.app/?username=gabrielrosales1804&theme=darkhub&title=Commits,MultiLanguage,NewUser,Repositories,Stars,Followers,LongTimeUser&row=1&column=7" />
 </div>
 
-<details open="">
 <h2>📊<strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong></h2>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRosales1804&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRosales1804&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
-</details>
-<br/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
