@@ -1,20 +1,22 @@
 <div style="font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
-<h1 align = "center">Hi 👋, I'm Gabriel Rosales </h1>
-<img src = "https://media.licdn.com/dms/image/v2/D4E16AQEK7lVqNNeZqg/profile-displaybackgroundimage-shrink_350_1400/B4EaHEUty2J8AU-/0/1794295127502?e=1796860800&v=beta&t=kBEFQejmI-Mpq_-nuoxxExd5oZp7adLUyte2BuDalMw">    
+<!--Banner Top-->
+    
+<h1 align = "center">Hi 👋, I'm Gabriel Rosales </h1>  
 <h3 align = "center">Desarrollador Backend .NET | C# | IoT & MAUI</h3>
-<img src="https://komarev.com/ghpvc/?username=GabrielRosales1804&style=flat" alt="">
-<a href="https://gitstats.me/GabrielRosales1804"><img src="https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white" alt="Github"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=GabrielRosales1804&style=flat&color=red" alt="">
+<a href="https://gitstats.me/GabrielRosales1804"><img src="https://img.shields.io/badge/-GabrielRosales1804-black?style=flat&labelColor=black&logo=github&logoColor=white" alt="Github"></a>
+</div>
 <p>Egresado de la Universidad Politécnica de Tecámac <strong>(en proceso de titulación)</strong>, enfocado en el desarrollo de software con tecnologías .NET.
 Me especializo en C# y ASP.NET Core, desarrollando APIs RESTful y aplicaciones bajo principios de Clean Architecture. También me interesa la integración de hardware y software mediante proyectos IoT y aplicaciones multiplataforma con .NET MAUI.</p>
 <h4 align="left">🎧 Más allá del código</h3></strong>
 <p>Fuera del desarrollo de software, me apasiona la música Hi-Res, el audio de alta fidelidad y experimentar con DACs y amplificadores.
 También soy entusiasta de Linux y el distro-hopping, disfrutando personalizar entornos de escritorio, explorar distribuciones y aprender más sobre sistemas operativos.</p>
 </div>
-
-<br><h2 align="left">🌐 Connect to Me</h2>
+<h2 align="left">🌐 Connect to Me</h2>
 <a href="https://linkedin.com/in/gabriel-rosales-eg" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
-<a href="mailto:gabo1289rosgal@:/gmail.com"target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-gabo1289rosgal@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Gmail"></a><br><br>
+<a href="mailto:gabo1289rosgal@://gmail.com."><img src="https://custom-icon-badges.demolab.com/badge/-gabo1289rosgal@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Gmail"></a><br><br>
 
 <h2 align="left">💻 Skills</h2>
 <table align="Center">
@@ -88,3 +90,4 @@ También soy entusiasta de Linux y el distro-hopping, disfrutando personalizar e
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRosales1804&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRosales1804&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
+<!-- Banner Button-->
