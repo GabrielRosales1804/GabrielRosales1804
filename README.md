@@ -1,4 +1,5 @@
 #  About Me:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 # ¡Hola! Soy Gabriel Rosales👋 <br><br>**Desarrollador Backend .NET | C# | IoT & MAUI**<br><br>Soy egresado de la Universidad Politécnica de Tecámac (en proceso de titulación) y me apasiona construir soluciones robustas. Mi enfoque principal está en el ecosistema **.NET**, diseñando APIs RESTful eficientes y escalables utilizando **Clean Architecture**.<br><br>Además del backend tradicional, disfruto explorar la integración de hardware y software desarrollando proyectos **IoT** conectados a aplicaciones móviles multiplataforma construidas con **.NET MAUI**. <br><br>##  Mi Stack Tecnológico<br><br>*   💻 **Backend & Core:** C#, .NET (Core / 8+)<br>*   🏗️ **Arquitectura & Diseño:** Clean Architecture, RESTful APIs<br>*   🗄️ **Bases de Datos:** PostgreSQL<br>*   📱 **Móvil & Hardware:** .NET MAUI, Proyectos IoT<br>*   ⚙️ **DevOps & SO:** Git, Docker, Linux (Basico/Intermedio)<br><br>##  Música y 🐧 Linux: Mi lado más Geek<br><br>Soy un audiófilo apasionado. Disfruto explorar la música en alta resolución (Hi-Res) y probar diferentes configuraciones de DACs y amplificadores para encontrar la calidad de sonido perfecta. Mantengo mi biblioteca musical estrictamente organizada para tener la banda sonora ideal para cada situación de mi día.<br><br>Cuando no estoy curando mi música o tirando código, probablemente me encuentres modificando mi sistema operativo. Soy un entusiasta del *distro-hopping*: mantengo mi laptop con *dual boot* para poder saltar entre distintas distribuciones de Linux, personalizar los entornos y ajustar cada detalle del sistema a mi gusto.<br><br>Contacto<br><br>**LinkedIn:** [https://www.linkedin.com/in/gabriel-rosales-eg/]<br> **Email:** gabo1289rosgal@gmail.com
 
 
@@ -25,3 +26,6 @@
 [![](https://komarev.com/ghpvc/?username=GabrielRosales1804&icon=6&color=red)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 
+
+-->
