@@ -1,14 +1,73 @@
+<div style="font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
 <h1 align = "center">Hi 👋, I'm Gabriel Rosales </h1>
 <h3 align = "center">Desarrollador Backend .NET | C# | IoT & MAUI</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-Egresado de la Universidad Politécnica de Tecámac (en proceso de titulación) y me apasiona construir soluciones robustas. Mi enfoque principal está en el ecosistema <strong>.NET</strong>, diseñando APIs RESTful eficientes y escalables utilizando <strong>Clean Architecture</strong>.<br><br>Además del backend tradicional, disfruto explorar la integración de hardware y software desarrollando proyectos <strong>IoT</strong> conectados a aplicaciones móviles multiplataforma construidas con <strong>.NET MAUI</strong>. <br><br>  Mi Stack Tecnológico<br><br>*   💻 <strong>Backend & Core</strong>: C#, .NET (Core / 8+)<br>*   🏗️ <strong>Arquitectura & Diseño</strong>: Clean Architecture, RESTful APIs<br>*   🗄️ <strong>Bases de Datos</strong>: PostgreSQL<br>*   📱 <strong>Móvil & Hardware</strong>: .NET MAUI, Proyectos IoT<br>*   ⚙️ <strong>DevOps & SO</strong>: Git, Docker, Linux (Basico/Intermedio)<br><br>  Música y 🐧 Linux: Mi lado más Geek<br><br>Soy un audiófilo apasionado. Disfruto explorar la música en alta resolución (Hi-Res) y probar diferentes configuraciones de DACs y amplificadores para encontrar la calidad de sonido perfecta. Mantengo mi biblioteca musical estrictamente organizada para tener la banda sonora ideal para cada situación de mi día.<br><br>Cuando no estoy curando mi música o tirando código, probablemente me encuentres modificando mi sistema operativo. Soy un entusiasta del *distro-hopping*: mantengo mi laptop con *dual boot* para poder saltar entre distintas distribuciones de Linux, personalizar los entornos y ajustar cada detalle del sistema a mi gusto.
+Egresado de la Universidad Politécnica de Tecámac <strong>(en proceso de titulación)</strong>, enfocado en el desarrollo de software con tecnologías .NET.
+Me especializo en C# y ASP.NET Core, desarrollando APIs RESTful y aplicaciones bajo principios de Clean Architecture. También me interesa la integración de hardware y software mediante proyectos IoT y aplicaciones multiplataforma con .NET MAUI.
+<h4 align="left">🎧 Más allá del código</h3><br></strong> Fuera del desarrollo de software, me apasiona la música Hi-Res, el audio de alta fidelidad y experimentar con DACs y amplificadores.
+También soy entusiasta de Linux y el distro-hopping, disfrutando personalizar entornos de escritorio, explorar distribuciones y aprender más sobre sistemas operativos.
+</div>
 
-<h2 align="left">🌐 Connect to Me:</h2>
+<br><br><h2 align="left">🌐 Connect to Me</h2>
 <a href="https://linkedin.com/in/gabriel-rosales-eg" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
-<a href="mailto:gabo1289rosgal@://gmail.com"target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-gabo1289rosgal@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Gmail"></a><br>
+<a href="mailto:gabo1289rosgal@://gmail.com"target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-gabo1289rosgal@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Gmail"></a><br><br>
 
-💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=plastic&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=plastic&logo=xamarin&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=plastic&logo=godot-engine) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=plastic&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+<h2 align="left">💻 Skills</h2>
+<table align="Center">
+    <tr>
+        <td><strong>Frontend</strong></td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+            <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+            <img src="https://skillicons.dev/icons?i=react" title="React" />
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Backend</strong></td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=cs" title="C#" />
+            <img src="https://skillicons.dev/icons?i=python" title="Python/">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Framework</strong></td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
+        </td>
+    </tr>
+    <tr>
+        <td><strong>IDE</strong></td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" />
+            <img src="https://skillicons.dev/icons?i=vim" title="Vim"/>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>DataBase</strong></td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" title="SQL Server" />
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Cloud System</strong></td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=azure" title="Azure" />
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Other</strong></td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=git" title="Git" />
+            <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+            <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+            <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" />
+            <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+            <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+        </td>
+    </tr>
+</table><br>
+
 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=GabrielRosales1804&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=GabrielRosales1804&theme=dark&hide_border=false)<br/>
@@ -18,7 +77,7 @@ Egresado de la Universidad Politécnica de Tecámac (en proceso de titulación) 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=gabrielrosales1804&theme=darkhub&title=Commits,MultiLanguage,NewUser,Repositories,Stars,Followers,LongTimeUser&row=1&column=7" />
 </div>
----
+
 [![](https://komarev.com/ghpvc/?username=GabrielRosales1804&icon=6&color=red)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
