@@ -2,7 +2,6 @@
 <!--Banner Top-->
     
 <h1 align = "center">Hi 👋, I'm Gabriel Rosales </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <h3 align = "center">Desarrollador Backend .NET | C# | IoT & MAUI</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <div align="center">
@@ -16,12 +15,10 @@ Me especializo en C# y ASP.NET Core, desarrollando APIs RESTful y aplicaciones b
 También soy entusiasta de Linux y el distro-hopping, disfrutando personalizar entornos de escritorio, explorar distribuciones y aprender más sobre sistemas operativos.</p>
 </div>
 <h2 align="left">🌐 Connect to Me</h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <a href="https://linkedin.com/in/gabriel-rosales-eg" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
 <a href="mailto:gabo1289rosgal@://gmail.com."><img src="https://custom-icon-badges.demolab.com/badge/-gabo1289rosgal@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Gmail"></a><br><br>
 
 <h2 align="left">💻 Skills</h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <table align="Center">
     <tr>
         <td><strong>Frontend</strong></td>
@@ -78,7 +75,6 @@ También soy entusiasta de Linux y el distro-hopping, disfrutando personalizar e
 </table><br>
 
 <h2>🏆<strong>GitHub Stats</strong></h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p align="center">
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielRosales1804&theme=dark&hide_border=true"/>
@@ -89,7 +85,6 @@ También soy entusiasta de Linux y el distro-hopping, disfrutando personalizar e
 </div>
 
 <h2>📊<strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong></h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRosales1804&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRosales1804&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
